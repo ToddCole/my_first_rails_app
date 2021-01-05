@@ -9,7 +9,6 @@ gem 'rails', '~> 6.1.0'
 group :development, :test do
   gem 'sqlite3'
  end
- 
  group :production do
    gem 'pg'
  end
